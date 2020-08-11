@@ -1,0 +1,2 @@
+# OCR-python
+use pytesseract 
